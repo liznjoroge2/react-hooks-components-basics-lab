@@ -29,9 +29,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      {/* Add the <Home> component here */}
       <Home />
-      {/* Add the <About> component here */}
       <About />
     </div>
   );
